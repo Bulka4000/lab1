@@ -1,0 +1,12 @@
+/* Lab. 1
+* exemplo 1*/
+#include <stdio.h>
+
+Int main(){
+    //imprime mensagem na tela
+    printf("Mackenzie-fci\n");
+    printf("Algoritimos e");
+    printf("prog.II\n");
+
+    return 0;
+}
